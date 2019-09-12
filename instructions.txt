@@ -1,0 +1,11 @@
+Please follow the intructions below:
+
+-Open command prompt run npm install on this project directory
+-Open your mongodb and create any database ex.graphql
+-Configure the .env file and set it to your mongodb connection string and ur database ex.graphql
+-On your prompt run the command npm start
+
+url: localhost:4000/playground
+
+
+Thanks
